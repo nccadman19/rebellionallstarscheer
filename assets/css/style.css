@@ -106,3 +106,20 @@ p.copyright {
     width: 100%;
 }
 
+@media (max-width: 768px) {
+    footer {
+      padding:2px 4px;
+      font-size:11px;
+      line-height: 1;
+      border-radius:3px;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 992px) {
+    footer {
+      padding:4px 9px;
+      font-size:12px;
+      line-height: 1.2;
+    }
+  }
+
