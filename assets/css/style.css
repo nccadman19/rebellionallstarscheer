@@ -59,11 +59,50 @@ a.btn.btn-primary.btn-lg {
     color: #fff;
     background-color: #394a3b;
     border-color: #95be99;
-} /*---- This is not changing the button color */
+} 
+
+@media (max-width: 768px) {
+    .jumbotron {
+      padding:2px 4px;
+      font-size:11px;
+      line-height: 1;
+      border-radius:3px;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 992px) {
+    .jumbotron {
+      padding:4px 9px;
+      font-size:12px;
+      line-height: 1.2;
+    }
+  }
 
 /* footer */
 
-.i.fab.fa-instagram {
-    height: 100vh;
-    max-width: 100&;
+p.copyright {
+    color:#394a3b;
+    font-family: "Roboto","Helvetica Neue", "sans-serif";
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-top: 30px;
+} 
+
+.fa-instagram {
+    color:#394a3b;
 }
+
+.fa-facebook-square {
+    color:#394a3b;
+}
+
+.socials-header {
+    color:#394a3b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    width: 100%;
+}
+
