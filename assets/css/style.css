@@ -196,3 +196,24 @@ p.copyright {
     margin-right: auto;
   }
   
+/* gallery */
+
+.carousel {
+  height: 90vh;
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  .carousel {
+    height: 20em;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .carousel {
+    height: auto;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
