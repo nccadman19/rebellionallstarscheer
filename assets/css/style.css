@@ -203,7 +203,26 @@ p.copyright {
     float: left;
     width: 33.33%;
     padding: 5px;
+    background-color:#95be997b;
   }
+
+  @media (max-width: 768px) {
+    .column {
+      padding:2px 4px;
+      font-size:11px;
+      line-height: 1;
+      border-radius:3px;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 992px) {
+    .column {
+      padding:4px 9px;
+      font-size:12px;
+      line-height: 1.2;
+    }
+  }
+
   
   /* Clear floats after image containers */
   .row::after {
