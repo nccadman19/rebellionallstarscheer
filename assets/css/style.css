@@ -19,6 +19,9 @@ body {
     padding: 0;
 }
 
+.nav-link {
+  text-align: center;
+}
 /* hero image section */
 
 .hero-image {
@@ -78,6 +81,24 @@ a.btn.btn-primary.btn-lg {
     }
   }
 
+/*--------------------------------------------Hover.css*/
+
+.menuitem a::after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 3px;
+  top: 100%;
+  left: 0;
+  background: #95be99;
+  transition: transform 0.5s;
+  transform: scaleX(0);
+  transform-origin: left;
+}
+
+.menuitem a:hover::after {
+  transform: scaleX(1);
+}
 /* footer */
 
 p.copyright {
@@ -216,4 +237,18 @@ p.copyright {
     top: 0;
     width: 100%;
   }
+}
+
+/* contact */
+
+.text-center {
+  background-color: #95be99;
+}
+
+.justify-content-center {
+  background-color: #95be99;
+}
+
+.contact-us {
+  background-color: #95be99;
 }
