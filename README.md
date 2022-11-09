@@ -22,6 +22,9 @@ https://stackoverflow.com/questions/34908332/float-image-in-center
 Image carousel:
 https://getbootstrap.com/docs/4.6/components/carousel/
 
+Remove pointer from a tag:
+https://codewithhugo.com/disable-html-anchor/#:~:text=To%20disable%20a%20HTML%20anchor,events%20on%20the%20anchor%20element.&text=This%20is%20a%20great%20option,HTML%20links%20on%20a%20page.
+
 ## Issues 
 
 I thought I'd write what I would like to change but don't know how (any help appreciated)
