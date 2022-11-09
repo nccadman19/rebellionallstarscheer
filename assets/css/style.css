@@ -20,8 +20,9 @@ body {
 }
 
 .nav-link {
-  text-align: center;
+  text-align: right;
 }
+
 /* hero image section */
 
 .hero-image {
