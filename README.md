@@ -33,5 +33,4 @@ I thought I'd write what I would like to change but don't know how (any help app
 
 1. I'd like the logo larger without moving everything else around. 
 2. I'd like to menu to align right, cannot get it to move to the right.
-3. In about us, I'd like nicer styling of the coaches section
-4. I'd like the coaches section to read vertically on mobile
+3. In about us, I'd like nicer styling of the coaches section.
