@@ -25,11 +25,13 @@ https://getbootstrap.com/docs/4.6/components/carousel/
 Remove pointer from a tag:
 https://codewithhugo.com/disable-html-anchor/#:~:text=To%20disable%20a%20HTML%20anchor,events%20on%20the%20anchor%20element.&text=This%20is%20a%20great%20option,HTML%20links%20on%20a%20page.
 
+Styling for Coaches section helped by: Harry Dhillon 
+
 ## Issues 
 
 I thought I'd write what I would like to change but don't know how (any help appreciated)
 
-1. I'd like the header slightly larger and to say Rebellion Allstarts with Allstar Competitive Cheer Team underneath. 
+1. I'd like the logo larger without moving everything else around. 
 2. I'd like to menu to align right, cannot get it to move to the right.
 3. In about us, I'd like nicer styling of the coaches section
 4. I'd like the coaches section to read vertically on mobile
