@@ -161,6 +161,17 @@ p.copyright {
     border-radius: 0.3rem;
 }
 
+.card-img-overlay {
+  position: absolute;
+  top: 70%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1.25rem;
+  border-radius: calc(0.25rem - 1px);
+  background-color: #95be998d;
+}
+
 
 @media (max-width: 768px) {
     .jumbotron-aboutus {
@@ -169,6 +180,15 @@ p.copyright {
       line-height: 1;
       border-radius:3px;
     }
+    .lead {
+      font-size: 1.1rem;
+      font-weight: 200;
+    }
+    .display-4 {
+      font-size: 2.5rem;
+      font-weight: 300;
+      line-height: 1.2;
+    }
   }
   
   @media (min-width: 769px) and (max-width: 992px) {
@@ -179,56 +199,10 @@ p.copyright {
     }
   }
 
-  .hero-image-aboutus {
-    height: 150vh;
-    max-width: 100%;
-
-    background: url('../images/hero.jpeg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    
-    display: -webkit-box;
-    
-    display: -ms-flexbox;
-    
-    display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-
-    position: relative;
-}
-
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-    background-color:#95be997b;
-  }
-
-  @media (max-width: 768px) {
-    .column {
-      padding:2px 4px;
-      font-size:11px;
-      line-height: 1;
-      border-radius:3px;
+  .h2, h2 {
+    font-size: 2rem;
+    text-align: center;
     }
-  }
-  
-  @media (min-width: 769px) and (max-width: 992px) {
-    .column {
-      padding:4px 9px;
-      font-size:12px;
-      line-height: 1.2;
-    }
-  }
 
   
   /* Clear floats after image containers */
