@@ -2,10 +2,68 @@
 
 ## Welsh competitive cheerleading team, first project
 
-This is my first project and I am very worried on how this is going to turn out!
+<a href="https://nccadman19.github.io/rebellionallstarscheer/" rel="nofollow" target="_blank">Visit the website here</a>
+
+![Markups](assets/images/markup.jpg)
+
+This is my first project and I am very worried on how this is going to turn out! This project is for my cheerleading team, it provides extra credibility for the team by having an online presence in website form. 
 
 
-This project is for my cheerleading team, it provides extra credibility for the team by having an online presence in website form. 
+This website is made up of the following sections:
+
+Home
+
+1. Navbar with logo, name of cheer team and nav bar links to other pages
+2. A paragraph about rebellion allstars
+3. Footer with copyright and social media links
+
+About Us
+
+1. Information about the team and a team photo
+2. List of the head coaches on the team and their positions
+
+Gallery
+
+1. A carousel of images from cheer sessions and competitions
+
+Contact
+
+1. A contact form for people to contact regarding using us for promotional material or joining a team. 
+
+
+My business goals for this website are:
+
+1. To show off the team and what we can do
+2. To create a point of contact for new members
+3. To promote the team to others and nationally for promotion events (such as football games) 
+
+The user goals of this website are:
+
+1. To be able to find out information on who rebellion allstars are
+2. To see who the coaches are
+3. To see what the gyms look like and what we look like as a team to entice the user to join our team 
+4. To view the talents of the team and possibly want to use us for an event 
+
+
+## Strategy
+
+Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
+
+Rebellion Allstars target users are:
+
+Aged 10-30
+Past/future cheerleaders 
+People looking for cheerleaders at an event 
+
+What these users would be looking for:
+
+Clear, concise, easy-to-find information
+Great photos of cheer that show off skills
+Somewhere to contact us
+
+
+
+## Credits
 
 Href links copied from nccadman19/resume-project/index.html
 
