@@ -14,11 +14,8 @@ body {
     padding: 0;
 }
 
-.row {
-    margin: 0;
-    padding: 0;
-    height: 10vh;
-    align-items: center;
+header {
+  height: 10vh;
 }
 
 p.slogan {
