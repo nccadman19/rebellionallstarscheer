@@ -93,6 +93,10 @@ This page has a carousel that showcases the work we do at Rebellion Allstars.
 
 This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events. 
 
+## HTML and CSS Validation 
+
+I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
+
 ## Credits
 
 Href links copied from nccadman19/resume-project/index.html
@@ -115,10 +119,12 @@ https://codewithhugo.com/disable-html-anchor/#:~:text=To%20disable%20a%20HTML%20
 
 Styling for Coaches section helped by: Harry Dhillon 
 
+Template for README helped using Daisy Gunn porfolio 1 pages 
+
 ## Issues 
 
 I thought I'd write what I would like to change but don't know how (any help appreciated)
 
-1. I'd like the logo larger without moving everything else around. 
-2. I'd like to menu to align right, cannot get it to move to the right.
-3. In about us, I'd like nicer styling of the coaches section.
+1. Navbar button not visible on mobile version 
+2. Gallery section moving below the footer
+3. In about us, I'd like nicer styling of the coaches section
