@@ -9,21 +9,6 @@ body {
     color: #212529;
 }
 
-.container-fluid {
-    margin: 0;
-    padding: 0;
-}
-
-header {
-  height: 10vh;
-}
-
-p.slogan {
-  margin-left: 4vh;
-  font-size:0.75rem;
-  font-style: italic;
-}
-
 img.d-inline-block {
   height:fit-content;
   width: fit-content;
@@ -33,14 +18,7 @@ img.d-inline-block {
   img.d-inline-block {
        width: 280px;
   }
-  
-  .navbar {
-    padding: 0;
-    height: 15vh; 
-  }
 }
-
-
 
 /* hero image section */
 
@@ -241,7 +219,7 @@ p.copyright {
 /* gallery */
 
 .carousel {
-  height: 90vh;
+  max-height: 90vh;
   max-width: 100%;
 }
 
