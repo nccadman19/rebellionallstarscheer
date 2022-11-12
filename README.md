@@ -44,6 +44,7 @@ The user goals of this website are:
 3. To see what the gyms look like and what we look like as a team to entice the user to join our team 
 4. To view the talents of the team and possibly want to use us for an event 
 
+# UX
 
 ## Strategy
 
@@ -85,10 +86,6 @@ The navbar is comprised of a logo and navigation links to the other pages on the
 
 This is where I introduce the owner of the club, when it was founded and a little about our teams and achievments. I also use this page to introduce the head coaches on the team with images of them. 
 
-### Gallery
-
-This page has a carousel that showcases the work we do at Rebellion Allstars. 
-
 ### Contact Us
 
 This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events. 
@@ -96,6 +93,11 @@ This is a contact page for people to contact us regarding joining the team and a
 ## HTML and CSS Validation 
 
 I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
+
+# Changes
+
+Made the executive decision to remove the gallery page as it only needs to be 3 pages long and the issues were going to add too much work to sort before the submission date. 
+Changed hero image as I felt it was a little pixelated 
 
 ## Credits
 
@@ -120,11 +122,3 @@ https://codewithhugo.com/disable-html-anchor/#:~:text=To%20disable%20a%20HTML%20
 Styling for Coaches section helped by: Harry Dhillon 
 
 Template for README helped using Daisy Gunn porfolio 1 pages 
-
-## Issues 
-
-I thought I'd write what I would like to change but don't know how (any help appreciated)
-
-1. Navbar button not visible on mobile version 
-2. Gallery section moving below the footer
-3. In about us, I'd like nicer styling of the coaches section
