@@ -23,6 +23,25 @@ p.slogan {
   font-size:0.75rem;
   font-style: italic;
 }
+
+img.d-inline-block {
+  height:fit-content;
+  width: fit-content;
+}
+
+@media screen and (max-width: 480px) {
+  img.d-inline-block {
+       width: 280px;
+  }
+  
+  .navbar {
+    padding: 0;
+    height: 15vh; 
+  }
+}
+
+
+
 /* hero image section */
 
 .hero-image {
