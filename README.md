@@ -61,7 +61,37 @@ Clear, concise, easy-to-find information
 Great photos of cheer that show off skills
 Somewhere to contact us
 
+## Skeleton
 
+Wireframes
+
+![Wireframe](assets/images/wireframe.jpg)
+
+## Surface
+
+I chose a colour palette based around the team colours, our uniforms are white, green and black and I wanted this to be reflected on the website. I paired these colours with a light grey to add something with less contrast than black for the footer. 
+
+I used Google fonts 'Roboto', I felt 'Roboto' was very easy to read and looks professional. 
+
+## Features
+
+This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the website is divided into the four sections listed in the navbar. All of the headings use the font Roboto and the body too, this consistency has been used across the website to create a coherent design.
+
+### Navbar
+
+The navbar is comprised of a logo and navigation links to the other pages on the site. The logo is comprised of colours that match our logo and I felt that a white background would look best with this. 
+
+### About
+
+This is where I introduce the owner of the club, when it was founded and a little about our teams and achievments. I also use this page to introduce the head coaches on the team with images of them. 
+
+### Gallery
+
+This page has a carousel that showcases the work we do at Rebellion Allstars. 
+
+### Contact Us
+
+This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events. 
 
 ## Credits
 
