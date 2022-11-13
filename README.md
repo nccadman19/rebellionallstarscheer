@@ -98,6 +98,9 @@ This is a contact page for people to contact us regarding joining the team and a
 
 I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
+![ValidatorHTML](assets/images/validator2.jpeg)
+![ValidatorCSS](assets/images/validator1.jpeg)
+
 # Changes
 ------------
 
