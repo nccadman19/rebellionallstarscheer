@@ -63,18 +63,21 @@ Great photos of cheer that show off skills
 Somewhere to contact us
 
 ## Skeleton
+--------------
 
 Wireframes
 
 ![Wireframe](assets/images/wireframe.jpg)
 
 ## Surface
+-------------
 
 I chose a colour palette based around the team colours, our uniforms are white, green and black and I wanted this to be reflected on the website. I paired these colours with a light grey to add something with less contrast than black for the footer. 
 
 I used Google fonts 'Roboto', I felt 'Roboto' was very easy to read and looks professional. 
 
 ## Features
+--------------------
 
 This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the website is divided into the four sections listed in the navbar. All of the headings use the font Roboto and the body too, this consistency has been used across the website to create a coherent design.
 
@@ -91,15 +94,47 @@ This is where I introduce the owner of the club, when it was founded and a littl
 This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events. 
 
 ## HTML and CSS Validation 
+---------------
 
 I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
 
 # Changes
+------------
 
 Made the executive decision to remove the gallery page as it only needs to be 3 pages long and the issues were going to add too much work to sort before the submission date. 
 Changed hero image as I felt it was a little pixelated 
 
+## Technologies Used
+-------------
+
+I have used several technologies that have enabled this design to work:
+
+* HTML Used as the basic building block for the project and to structure the content.
+
+* CSS Used to style all the web content across the project.
+
+* Bootstap Used for the responsive navbar, jumbotron, footer layout and contact page. 
+
+* Google Fonts Used to obtain the fonts linked in the header, fonts used were Roboto. 
+
+* Font Awesome Used to obtain the social media icons used in the footer. 
+
+* GitHub Used to store code for the project after being pushed.
+
+* Git Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+
+* Gitpod Used as the development environment.
+
+* Wireframe.cc Used to create the wireframes for the project.
+
+* Pexels Used to get a better hero image for main and about page. 
+
+* W3C Markup Validation Service Used to validate all HTML code written and used in this webpage.
+
+* W3C CSS Validation Service Used to validate all CSS code written and used in this webpage.
+
 ## Credits
+--------------
 
 Href links copied from nccadman19/resume-project/index.html
 
