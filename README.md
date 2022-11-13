@@ -142,14 +142,11 @@ Help: Help from Harry Dhillon | Mentor | Software Developer @ PwC
 
 Other pages used for help: 
 
-Stop jumbotron from bleeding our of container when viewed on mobile: 
+Stop jumbotron from bleeding out of container when viewed on mobile: 
 https://stackoverflow.com/questions/21425051/bootstrap-3-large-button-breaks-out-of-jumbotron-on-mobile-screen
 
 How to center first about us image:
 https://stackoverflow.com/questions/34908332/float-image-in-center
-
-Image carousel:
-https://getbootstrap.com/docs/4.6/components/carousel/
 
 Remove pointer from a tag:
 https://codewithhugo.com/disable-html-anchor/#:~:text=To%20disable%20a%20HTML%20anchor,events%20on%20the%20anchor%20element.&text=This%20is%20a%20great%20option,HTML%20links%20on%20a%20page.
