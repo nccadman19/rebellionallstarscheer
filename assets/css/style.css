@@ -178,27 +178,58 @@ p.copyright {
 
 @media (max-width: 768px) {
     .jumbotron-aboutus {
-      padding:2px 4px;
+      padding: 2rem 1rem;
+      margin-bottom: 1rem;
       font-size:11px;
       line-height: 1;
       border-radius:3px;
     }
     .lead {
       font-size: 1.1rem;
-      font-weight: 200;
+      font-weight: 100;
     }
     .display-4 {
-      font-size: 2.5rem;
+      font-size: 1.5rem;
       font-weight: 300;
       line-height: 1.2;
+    }
+    .aboutimg {
+      height: 30vh;
     }
   }
   
   @media (min-width: 769px) and (max-width: 992px) {
     .jumbotron-aboutus {
-      padding:4px 9px;
-      font-size:12px;
+      padding: 2rem 1rem;
+      margin-bottom: 1rem;
+      font-size:11px;
+      line-height: 1;
+      border-radius:3px;
+    }
+    .aboutimg {
+      height: 30vh;
+    }
+  }
+
+  @media (min-width: 576px) {
+    .jumbotron-aboutus {
+      padding: 2rem 1rem;
+      margin-bottom: 1rem;
+      font-size:11px;
+      line-height: 1;
+      border-radius:3px;
+    }
+    .lead {
+      font-size: 1.1rem;
+      font-weight: 100;
+    }
+    .display-4 {
+      font-size: 1.5rem;
+      font-weight: 300;
       line-height: 1.2;
+    }
+    .aboutimg {
+      height: 60vh;
     }
   }
 
