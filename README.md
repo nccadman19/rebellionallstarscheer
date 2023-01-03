@@ -44,7 +44,76 @@ The user goals of this website are:
 3. To see what the gyms look like and what we look like as a team to entice the user to join our team 
 4. To view the talents of the team and possibly want to use us for an event 
 
+User stories:
+
+1. As a new user of this website, I want to easily find out the purpose of the site
+2. As a new user of this website, I want to learn more about the team
+3. As a new user of this website, I want to quickly and easyily see the current coaches
+4. As a new user of this website, I want to quickly and easily contact someone about the team
+
+# UX
+
+## Strategy
+--------------
+
+Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
+
+Rebellion Allstars target users are:
+
+Aged 10-30
+Past/future cheerleaders 
+People looking for cheerleaders at an event 
+
+What these users would be looking for:
+
+Clear, concise, easy-to-find information
+Great photos of cheer that show off skills
+Somewhere to contact us
+
+## Skeleton
+--------------
+
+Wireframes
+
+![Wireframe](assets/images/wireframes3.jpeg)
+![Wireframe Mobile](assets/images/wireframes4.jpg)
+
+## Surface
+-------------
+
+I chose a colour palette based around the team colours, our uniforms are white, green and black and I wanted this to be reflected on the website. I paired these colours with a light grey to add something with less contrast than black for the footer. 
+
+I used Google fonts 'Roboto', I felt 'Roboto' was very easy to read and looks professional. 
+
+## Features
+--------------------
+
+This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the website is divided into the four sections listed in the navbar. All of the headings use the font Roboto and the body too, this consistency has been used across the website to create a coherent design.
+
+### Navbar
+
+The navbar is comprised of a logo and navigation links to the other pages on the site. The logo is comprised of colours that match our logo and I felt that a white background would look best with this. 
+
+### About
+
+This is where I introduce the owner of the club, when it was founded and a little about our teams and achievments. I also use this page to introduce the head coaches on the team with images of them. 
+
+### Contact Us
+
+This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events. 
+
+### Media
+
+Hero image - is designed in bright and strong colors to grab the user's attention and elevate the overall look of the page
+
+About - contains clear information about the team and a compeition photo to show our uniforms and success 
+
+Coaches - contains images of the coaches just below the about us section. I chose headshots of the coaches to clearly show their faces
+
+Contact section - contains a background colour that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
+
 # Testing 
+--------------
 
 ## Functionality Testing 
 
@@ -119,57 +188,6 @@ I remedied this issue by adding ‘class=“aboutimg”' to the image in the CSS
 This changed the sizing on mobile and allowed to image to be viewed as intended. 
 
 I could have also compressed the images as noted in the loading speed testing but I was unsure how to do this and the project needed to be submitted. 
-
-
-# UX
-
-## Strategy
-
-Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
-
-Rebellion Allstars target users are:
-
-Aged 10-30
-Past/future cheerleaders 
-People looking for cheerleaders at an event 
-
-What these users would be looking for:
-
-Clear, concise, easy-to-find information
-Great photos of cheer that show off skills
-Somewhere to contact us
-
-## Skeleton
---------------
-
-Wireframes
-
-![Wireframe](assets/images/wireframes3.jpeg)
-![Wireframe Mobile](assets/images/wireframes4.jpg)
-
-## Surface
--------------
-
-I chose a colour palette based around the team colours, our uniforms are white, green and black and I wanted this to be reflected on the website. I paired these colours with a light grey to add something with less contrast than black for the footer. 
-
-I used Google fonts 'Roboto', I felt 'Roboto' was very easy to read and looks professional. 
-
-## Features
---------------------
-
-This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; the website is divided into the four sections listed in the navbar. All of the headings use the font Roboto and the body too, this consistency has been used across the website to create a coherent design.
-
-### Navbar
-
-The navbar is comprised of a logo and navigation links to the other pages on the site. The logo is comprised of colours that match our logo and I felt that a white background would look best with this. 
-
-### About
-
-This is where I introduce the owner of the club, when it was founded and a little about our teams and achievments. I also use this page to introduce the head coaches on the team with images of them. 
-
-### Contact Us
-
-This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events. 
 
 ## HTML and CSS Validation 
 ---------------
