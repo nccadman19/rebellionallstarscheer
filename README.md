@@ -213,6 +213,8 @@ I have used several technologies that have enabled this design to work:
 
 * W3C CSS Validation Service Used to validate all CSS code written and used in this webpage.
 
+* Pingdom to check speed of website loading
+
 ## Credits
 --------------
 
