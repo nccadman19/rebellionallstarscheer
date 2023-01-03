@@ -44,6 +44,83 @@ The user goals of this website are:
 3. To see what the gyms look like and what we look like as a team to entice the user to join our team 
 4. To view the talents of the team and possibly want to use us for an event 
 
+# Testing 
+
+## Functionality Testing 
+
+### Validate HTML/CSS
+
+As you can see in the HTML/CSS section I have completed all validation checks with no errors. 
+
+### Forms
+
+I have tested the form on both mobile and browser and there are no errors. The website returns to a blank contact form in case the user made a mistake or wants to make another enquiry. 
+
+The contact name and email address is a mandatory field and I can confirm with testing that you cannot submit the form without some data in the field and an @ in the email field. 
+
+## Usability Testing 
+
+### Navigation 
+
+I tested the navigation with the test subject being a user who wants to have a look at the coaches and apply to join the team. 
+
+On opening the website there is initial information on the team with a clear learn more button that takes you to the about page. 
+
+The about page gives a further breakdown of the team and also shows who the coaches are (Please see bug information that was remedied at this stage).
+
+The contact page is then clearly in the top right hand corner (after selecting the menu on mobile) where you can click and get in contact with the team. 
+
+### Spelling & Viewing 
+
+I have spell checked the entirety of the site and could not find any errors. 
+
+All static images have been testing on desktop and mobile with no issues (Please see bug information that was remedied at this stage).
+
+The scroll bar works correctly on mobile and desktop.
+
+### URL 
+
+The URL contains the correct page title for each page viewed on all platforms. 
+
+### Loading Speed 
+
+Using pingdom I tested the load of the website on a desktop chrome browser. 
+
+I gained the following results:
+
+![Loading](assets/images/loading.jpg)
+
+The main comment that made the score a B rating was to compress the images to load the page faster, I will keep this information noted for my next project. 
+
+## Compatibility Testing 
+
+I have tested the website on both chrome and safari, both of which view as intended with no errors. 
+
+Tests on iOS mobile platforms show no errors, I have also tested using the inspect element at different sizes with no issues (Please see bug information that was remedied at this stage).
+
+## Performance Testing 
+
+### Web Load Testing 
+
+I tested this function with 30 people accessing the website at once with them all submitting a contact request. The site function as expected with no time outs or errors. 
+
+### Maintenance 
+
+I have gone back to this site on different platforms regularly to ensure the site is viewing as intended. 
+
+# Bugs 
+
+After testing the site on different platforms I noticed that on safari mobile an image on the about page had not adjusted as intended to the page size. 
+
+I remedied this issue by adding ‘class=“aboutimg”' to the image in the CSS I then added the following code to a media query for mobile:
+
+.aboutimg { height: 60vh; }
+
+This changed the sizing on mobile and allowed to image to be viewed as intended. 
+
+I could have also compressed the images as noted in the loading speed testing but I was unsure how to do this and the project needed to be submitted. 
+
+
 # UX
 
 ## Strategy
