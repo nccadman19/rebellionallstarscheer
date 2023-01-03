@@ -144,8 +144,8 @@ Somewhere to contact us
 
 Wireframes
 
-![Wireframe](assets/images/wireframe3.jpeg)
-![Wireframe Mobile](assets/images/wireframe4.jpeg)
+![Wireframe](assets/images/wireframes3.jpeg)
+![Wireframe Mobile](assets/images/wireframes4.jpeg)
 
 ## Surface
 -------------
