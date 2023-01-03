@@ -88,7 +88,7 @@ Using pingdom I tested the load of the website on a desktop chrome browser.
 
 I gained the following results:
 
-![Loading](assets/images/loading.jpg)
+![Loading](assets/images/loading.jpeg)
 
 The main comment that made the score a B rating was to compress the images to load the page faster, I will keep this information noted for my next project. 
 
