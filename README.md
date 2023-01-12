@@ -8,6 +8,41 @@
 
 This is my first project and I am very worried on how this is going to turn out! This project is for my cheerleading team, it provides extra credibility for the team by having an online presence in website form. 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [UX](#ux)
+  - [Strategy](#strategy)
+  - [Skeleton](#skeleton)
+  - [Surface](#surface)
+  - [Features](#features)
+    - [Navbar](#navbar)
+    - [About](#about)
+    - [Contact Us](#contact-us)
+    - [Media](#media)
+- [Testing](#testing)
+  - [Functionality Testing](#functionality-testing)
+    - [Validate HTML/CSS](#validate-htmlcss)
+    - [Forms](#forms)
+  - [Usability Testing](#usability-testing)
+    - [Navigation](#navigation)
+    - [Spelling & Viewing](#spelling--viewing)
+    - [URL](#url)
+  - [Compatibility Testing](#compatibility-testing)
+  - [Performance Testing](#performance-testing)
+    - [Web Load Testing](#web-load-testing)
+    - [Maintenance](#maintenance)
+    - [Accessibility](#accessibility)
+- [Bugs](#bugs)
+- [Changes](#changes)
+  - [Technologies Used](#technologies-used)
+- [Github Deployment](#github-deployment)
+  - [Github Preparation](#github-preparation)
+  - [Github Instructions](#github-instructions)
+- [Credits](#credits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 This website is made up of the following sections:
 
@@ -21,10 +56,6 @@ About Us
 
 1. Information about the team and a team photo
 2. List of the head coaches on the team and their positions
-
-Gallery
-
-1. A carousel of images from cheer sessions and competitions
 
 Contact
 
@@ -94,13 +125,19 @@ This is a fully responsive website that was designed mobile-first as this is the
 
 The navbar is comprised of a logo and navigation links to the other pages on the site. The logo is comprised of colours that match our logo and I felt that a white background would look best with this. 
 
+![Navbar Mockup](assets/images/navbarmockup.png)
+
 ### About
 
 This is where I introduce the owner of the club, when it was founded and a little about our teams and achievments. I also use this page to introduce the head coaches on the team with images of them. 
 
+![About Us Mockup](assets/images/aboutusmockup.png)
+
 ### Contact Us
 
-This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events. 
+This is a contact page for people to contact us regarding joining the team and also enquiring about booking us for events.
+
+![Contact Us Mockup](assets/images/contactmockup.png)
 
 ### Media
 
@@ -113,13 +150,17 @@ Coaches - contains images of the coaches just below the about us section. I chos
 Contact section - contains a background colour that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
 
 # Testing 
---------------
+
 
 ## Functionality Testing 
+------------
 
 ### Validate HTML/CSS
 
-As you can see in the HTML/CSS section I have completed all validation checks with no errors. 
+I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
+
+![ValidatorHTML](assets/images/validator2.jpeg)
+![ValidatorCSS](assets/images/validator1.jpeg)
 
 ### Forms
 
@@ -128,6 +169,7 @@ I have tested the form on both mobile and browser and there are no errors. The w
 The contact name and email address is a mandatory field and I can confirm with testing that you cannot submit the form without some data in the field and an @ in the email field. 
 
 ## Usability Testing 
+------------
 
 ### Navigation 
 
@@ -162,12 +204,14 @@ I gained the following results:
 The main comment that made the score a B rating was to compress the images to load the page faster, I will keep this information noted for my next project. 
 
 ## Compatibility Testing 
+------------
 
 I have tested the website on both chrome and safari, both of which view as intended with no errors. 
 
 Tests on iOS mobile platforms show no errors, I have also tested using the inspect element at different sizes with no issues (Please see bug information that was remedied at this stage).
 
 ## Performance Testing 
+------------
 
 ### Web Load Testing 
 
@@ -176,6 +220,17 @@ I tested this function with 30 people accessing the website at once with them al
 ### Maintenance 
 
 I have gone back to this site on different platforms regularly to ensure the site is viewing as intended. 
+
+### Accessibility
+
+Using Chrome developers Lighthouse I have checked the user accessibility results are as follows:
+
+![Lighthouse](assets/images/lighthouse.png)
+
+I then used Page Speed to further check accessibility on my page. 
+
+![Speed Desktop](assets/images/speed1.png)
+![Speed Mobile](assets/images/speed2.png)
 
 # Bugs 
 
@@ -189,16 +244,7 @@ This changed the sizing on mobile and allowed to image to be viewed as intended.
 
 I could have also compressed the images as noted in the loading speed testing but I was unsure how to do this and the project needed to be submitted. 
 
-## HTML and CSS Validation 
----------------
-
-I validated both my HTML and CSS code multiple times whilst building the website, I did this so that there were not a huge amount of errors/warnings at the final stages of development for me to deal with. This allowed me to incrementally improve my code and upon completion, there were 0 errors found.
-
-![ValidatorHTML](assets/images/validator2.jpeg)
-![ValidatorCSS](assets/images/validator1.jpeg)
-
 # Changes
-------------
 
 Made the executive decision to remove the gallery page as it only needs to be 3 pages long and the issues were going to add too much work to sort before the submission date. 
 Changed hero image as I felt it was a little pixelated 
@@ -234,8 +280,27 @@ I have used several technologies that have enabled this design to work:
 
 * Pingdom to check speed of website loading
 
-## Credits
---------------
+# Github Deployment
+
+## Github Preparation
+
+* It is possible to copy or clone the repository to directly for deployment, but you will have to compile the make sure the SCSS compiles correctly first. Github Pages' Jekyll themes support this but you will have to make some customisations. 
+Requirements:
+* A free GitHub account.
+* A free EmailJS account.
+
+## Github Instructions
+
+1. Log in to your GitHub account. navigate to https://github.com/Ri-Dearg/neverlost-thrift.
+2. You can set up your own repository and copy or clone it, or you fork the repository.
+3. git add, git commit and git push to a GitHub repository, if necessary.
+4. GitHub pages will update from the master branch by default.
+5. Go to the Settings page of the repository.
+6. Scroll down to the Github Pages section.
+7. Select the Master Branch as the source and Confirm the selection.
+8. Wait a minute or two and it should be live for viewing. See my own here.
+
+# Credits
 
 Href links copied from nccadman19/resume-project/index.html
 
@@ -255,3 +320,7 @@ https://codewithhugo.com/disable-html-anchor/#:~:text=To%20disable%20a%20HTML%20
 Styling for Coaches section helped by: Harry Dhillon 
 
 Template for README helped using Daisy Gunn porfolio 1 pages 
+
+## Contact
+
+Please feel free to contact me at nicolecadman@icloud.com
