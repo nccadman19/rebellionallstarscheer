@@ -284,21 +284,17 @@ I have used several technologies that have enabled this design to work:
 
 ## Github Preparation
 
-* It is possible to copy or clone the repository to directly for deployment, but you will have to compile the make sure the SCSS compiles correctly first. Github Pages' Jekyll themes support this but you will have to make some customisations. 
-Requirements:
-* A free GitHub account.
-* A free EmailJS account.
+* To prepare for using GitHub, you can either copy or clone the repository for direct deployment. 
+* To get started, you'll need a free GitHub account and a free EmailJS account.
 
 ## Github Instructions
 
-1. Log in to your GitHub account. navigate to https://github.com/Ri-Dearg/neverlost-thrift.
-2. You can set up your own repository and copy or clone it, or you fork the repository.
-3. git add, git commit and git push to a GitHub repository, if necessary.
-4. GitHub pages will update from the master branch by default.
-5. Go to the Settings page of the repository.
-6. Scroll down to the Github Pages section.
-7. Select the Master Branch as the source and Confirm the selection.
-8. Wait a minute or two and it should be live for viewing. See my own here.
+1. To set up your repository on GitHub, log in to your account and navigate to https://github.com/nccadman19/rebellionallstarscheer. 
+2.  You can either create your own repository and copy or clone it, or you can fork the existing repository.
+3. Use the git add, git commit, and git push commands to upload your files to the repository.
+4. By default, GitHub Pages updates from the master branch. To make your website live, go to the Settings page of the repository and scroll down to the GitHub Pages section.
+5. Select the Master Branch as the source and confirm your selection. After a minute or two, your website should be live and ready to view.
+6. You can see an example of this by visiting my own website. https://nccadman19.github.io/rebellionallstarscheer/ 
 
 # Credits
 
